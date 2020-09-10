@@ -31,6 +31,21 @@ namespace HackerRankSockMerchant
             }
 
 
+
+            //check the array for matching pairs
+            int pairs = 0;
+            for (int i=0; i<socks.Length; i++)
+            {
+                for (int j=i+1; j<socks.Length; j++)
+                {
+                    if (socks[i] == socks[j])
+                    {
+                        pairs++;
+                    }
+
+                }
+            }
+
         }
     }
 }
