@@ -1,0 +1,7 @@
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\obj\Debug\HackerRankSockMerchant.csprojAssemblyReference.cache
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\obj\Debug\HackerRankSockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\bin\Debug\HackerRankSockMerchant.exe.config
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\bin\Debug\HackerRankSockMerchant.exe
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\bin\Debug\HackerRankSockMerchant.pdb
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\obj\Debug\HackerRankSockMerchant.exe
+C:\Users\alnic\source\repos\HackerRankSockMerchant\HackerRankSockMerchant\obj\Debug\HackerRankSockMerchant.pdb
